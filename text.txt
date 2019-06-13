@@ -1,11 +1,8 @@
-Hello Git! 1234567890
+Hello Git! Hello Git! Hello Git! Hello Git!
 
     public static clearData(name: string): void {
         localStorage.removeItem(name);
+        localStorage.setItem(name, JSON.stringify(data));
     }
-
-    public static checkData(name: string): boolean {
-        return Boolean(localStorage.getItem(name));
-    }
-
-    constructor() { }
+    
+import {Injectable} from '@angular/core';
