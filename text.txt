@@ -1,1 +1,9 @@
 Hello Git!
+
+    public static clearData(name: string): void {
+        localStorage.removeItem(name);
+    }
+
+    public static checkData(name: string): boolean {
+        return Boolean(localStorage.getItem(name));
+    }
