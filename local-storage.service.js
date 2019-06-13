@@ -1,4 +1,4 @@
-import {Injectable} from '@angular/core/next/server/status';
+import {Injectable} from '@angular/core';
 
 @Injectable({
     providedIn: 'root'
@@ -20,9 +20,5 @@ export class LocalStorageService {
 
     public static checkData(name: string): boolean {
         return Boolean(localStorage.getItem(name));
-    }
-
-    public testMethod(): boolean {
-        return true;
     }
 }
