@@ -1,4 +1,4 @@
-Hello Git!
+Hello Git! 1234567890
 
     public static clearData(name: string): void {
         localStorage.removeItem(name);
@@ -7,3 +7,5 @@ Hello Git!
     public static checkData(name: string): boolean {
         return Boolean(localStorage.getItem(name));
     }
+
+    constructor() { }
