@@ -2,8 +2,13 @@ Hello Git! Hello Git! Hello Git! Hello Git!
 
     public static clearData(name: string): void {
         localStorage.removeItem(name);
-        localStorage.setItem(name, JSON.stringify(data));
+        lo55555calStorage.setItem(name, JSON.stringify(data));
     }
     
 import {Injectable} from '@angular/core';
 13gegeewgjwerjgeg
+
+ egergergere r
+gerg reg erg er
+g e
+gergergerg
