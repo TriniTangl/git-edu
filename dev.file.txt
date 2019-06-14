@@ -1,2 +1,6 @@
 Hello nano!
+<<<<<<< HEAD
 Hello new change!
+=======
+My change!
+>>>>>>> change file
