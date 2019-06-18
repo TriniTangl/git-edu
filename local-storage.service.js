@@ -22,3 +22,7 @@ export class LocalStorageService {
         return Boolean(localStorage.getItem(name));
     }
 }
+
+wngoqwno[nfqwonfqoiwenfiowqngoiwqgoinwoiqg
+wgweqgnowigniowngoiwqniogengoinwoniwoeniognw
+wgnwognowngowngiwngowngiowegnowigniowqngwoeqgn
