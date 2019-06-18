@@ -6,3 +6,10 @@ Hello Git! Hello Git! Hello Git! Hello Git!
     }
     
 import {Injectable} from '@angular/core';
+
+
+
+3r34io3oi4no0ipo3mpgmoineoirno[g
+eprmpwmpogme-wmpomewpombpormpone
+wn[oqingo[ngo[iio[wnegknlewngenn
+oneoirwnoiikmnvim[powem[pormwpob
